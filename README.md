@@ -1,6 +1,6 @@
 # React Application with TypeScript, Vite, and TailwindCSS
 
-# 🚨🚨 Live Deployment: [CodeAnt AI Assignment](https://github.com/vidit-maheshwari/codeant-ai-assignment) 🚨🚨
+# 🚨🚨 Live Deployment: [CodeAnt AI Assignment](https://codeant-ai-assignment.vercel.app/) 🚨🚨
 
 ## Project Overview
 

@@ -1,5 +1,7 @@
 # React Application with TypeScript, Vite, and TailwindCSS
 
+# 🚨🚨 Live Deployment: [CodeAnt AI Assignment](https://github.com/vidit-maheshwari/codeant-ai-assignment) 🚨🚨
+
 ## Project Overview
 
 This is a React-based application built with **TypeScript** and using the **Vite** framework. The project integrates a variety of libraries and tools, such as **lucide-react** for icons, **react-router-dom** for routing, and **tailwindcss** for styling. The application provides a clean and responsive UI with a focus on client-side routing and reusability of components.
